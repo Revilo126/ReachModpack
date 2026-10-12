@@ -1,0 +1,29 @@
+{
+  "name": "FentLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gicMzKg1",
+      "slug": "fentlib",
+      "versionId": "kk1Uabm0",
+      "versionNumber": "0.0.55",
+      "filename": "fentlib-0.0.55.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gicMzKg1/versions/kk1Uabm0/fentlib-0.0.55.jar",
+      "sha1": "5db6ad3164864554eb229d64a667d3ba208d2277",
+      "sha512": "a7a9b7e5d727bdb187a5617c15a2e02ce379abe2b4486c611e8d309c6c0480089a0b80695d87b75f8104fedbdb3d8a75f0e31186da882b5e4e1587b07c362943",
+      "fileSize": 6105967
+    },
+    "curseforge": {
+      "id": "1482661",
+      "slug": "fentlib"
+    }
+  },
+  "dependents": [
+    "LiB1HUQN"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

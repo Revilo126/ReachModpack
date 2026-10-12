@@ -1,0 +1,9 @@
+{
+  "name": "Reach",
+  "version": "1.0.0",
+  "minecraft": "1.7.10",
+  "loader": "forge",
+  "loaderVersion": "10.13.4.1614",
+  "channel": "release",
+  "formatVersion": 1
+}

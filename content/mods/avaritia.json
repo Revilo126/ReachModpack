@@ -1,0 +1,22 @@
+{
+  "name": "Avaritia",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "233785",
+      "slug": "avaritia",
+      "versionId": "2519595",
+      "versionNumber": "Avaritia-1.13.jar",
+      "filename": "Avaritia-1.13.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/2519/595/Avaritia-1.13.jar",
+      "sha1": "3ed1f92809d6a6ec1d495082ad263725cea7f098",
+      "fileSize": 1034833
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Forgelin: Legacy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "p3H3GHwK",
+      "slug": "forgelin-legacy",
+      "versionId": "J8Xzr1Ee",
+      "versionNumber": "2.4.3-2.4.10",
+      "filename": "forgelin-mc1.7.10-2.4.3-2.4.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/p3H3GHwK/versions/J8Xzr1Ee/forgelin-mc1.7.10-2.4.3-2.4.10.jar",
+      "sha1": "ac7259b854f456dbe4dcb4831645ad78be6200ca",
+      "sha512": "a4340105725dcc6da4e63103717eb57ce9ed02c03c5185b1a93e744db743f9662c3d3139f98da5a443f7d673204a477261f24cf232c81c27c8dc316170ffc5a2",
+      "fileSize": 140487
+    },
+    "curseforge": {
+      "id": "1390643",
+      "slug": "forgelin-legacy",
+      "versionId": "8610017",
+      "versionNumber": "2.4.3-2.4.10",
+      "filename": "forgelin-mc1.7.10-2.4.3-2.4.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8610/17/forgelin-mc1.7.10-2.4.3-2.4.10.jar",
+      "sha1": "ac7259b854f456dbe4dcb4831645ad78be6200ca",
+      "fileSize": 140487
+    }
+  },
+  "dependents": [
+    "LiB1HUQN"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

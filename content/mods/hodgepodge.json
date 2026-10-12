@@ -1,0 +1,23 @@
+{
+  "name": "Hodgepodge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6QQe8Ldy",
+      "slug": "hodgepodge",
+      "versionId": "z0O5aOYV",
+      "versionNumber": "2.7.216",
+      "filename": "hodgepodge-2.7.216.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6QQe8Ldy/versions/z0O5aOYV/hodgepodge-2.7.216.jar",
+      "sha1": "0db7cb0d90ce5fc7000a35475e7fec5a8f211bc1",
+      "sha512": "652cd1aca9d86d5a1501d7f011caced7687943f5a0f334d9963e3d4216f076fc2c7600ebd99f8ab3409c5ce9ff7803e6bc3499752eb09e923aedfb4d7a7e1813",
+      "fileSize": 1257729
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

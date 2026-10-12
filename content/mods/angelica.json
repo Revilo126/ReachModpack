@@ -1,0 +1,33 @@
+{
+  "name": "Angelica",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XN5jnYB4",
+      "slug": "angelica",
+      "versionId": "TfUbK8YD",
+      "versionNumber": "2.2.31",
+      "filename": "angelica-2.2.31.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XN5jnYB4/versions/TfUbK8YD/angelica-2.2.31.jar",
+      "sha1": "966c0ffc99317779a983e60a8c319de967038853",
+      "sha512": "0a5d8210ef8aa1b257c860834f6075cc2659399183fad8b679102f3175cf25c230039fae9d1974c5a978283d87f57ff160583949877314f6218d6e2a86b99d22",
+      "fileSize": 12074431
+    },
+    "curseforge": {
+      "id": "988067",
+      "slug": "angelica",
+      "versionId": "9124497",
+      "versionNumber": "angelica-2.2.31.jar",
+      "filename": "angelica-2.2.31.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9124/497/angelica-2.2.31.jar",
+      "sha1": "966c0ffc99317779a983e60a8c319de967038853",
+      "fileSize": 12074431
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

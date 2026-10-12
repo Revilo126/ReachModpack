@@ -1,0 +1,43 @@
+{
+  "name": "UniMixins",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ghjoiQAl",
+      "slug": "unimixins",
+      "versionId": "SeOh2lEZ",
+      "versionNumber": "1.7.10-0.3.1",
+      "filename": "+unimixins-all-1.7.10-0.3.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ghjoiQAl/versions/SeOh2lEZ/%2Bunimixins-all-1.7.10-0.3.1.jar",
+      "sha1": "75f9251b1ac4eeacdce0b86a1a68bd8ff4fbf604",
+      "sha512": "305a13cdc0ea7bdc724c49ee5d7d32f307d602e8e4d7a3b86dcf66a2fc69e1134eae113c1e9761fe7daec3d81f388886bf63e5d19438ef2e205819433f7e7112",
+      "fileSize": 5519796
+    },
+    "curseforge": {
+      "id": "826970",
+      "slug": "unimixins",
+      "versionId": "8153136",
+      "versionNumber": "UniMixins 0.3.1",
+      "filename": "+unimixins-all-1.7.10-0.3.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8153/136/%2bunimixins-all-1.7.10-0.3.1.jar",
+      "sha1": "75f9251b1ac4eeacdce0b86a1a68bd8ff4fbf604",
+      "fileSize": 5519796
+    }
+  },
+  "dependents": [
+    "6QQe8Ldy",
+    "Ecvd12QC",
+    "LiB1HUQN",
+    "XN5jnYB4",
+    "gicMzKg1",
+    "lfHFW1mp",
+    "qGHY4QGo",
+    "vTvnv7qp",
+    "y0vBUOla"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

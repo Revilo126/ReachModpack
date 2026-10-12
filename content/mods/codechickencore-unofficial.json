@@ -1,0 +1,35 @@
+{
+  "name": "CodeChickenCore Unofficial 1.7.10",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qMOdaUOs",
+      "slug": "codechickencore-unofficial",
+      "versionId": "5HFcVnF6",
+      "versionNumber": "1.4.22",
+      "filename": "CodeChickenCore-1.4.22.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qMOdaUOs/versions/5HFcVnF6/CodeChickenCore-1.4.22.jar",
+      "sha1": "f4b6d5e12fdd25552e3d79b86c44f4ccccab235b",
+      "sha512": "0fd5638ac7f1a536598db3dd25bf70dd6b02a799dc55cb99087b4674e6963db898b1014e11eca89a710948149e47133ef9b14ae178eb2ef9549d1085ae4cc646",
+      "fileSize": 453567
+    },
+    "curseforge": {
+      "id": "746279",
+      "slug": "codechickencore-unofficial",
+      "versionId": "8926425",
+      "versionNumber": "CodeChickenCore-1.4.22.jar",
+      "filename": "CodeChickenCore-1.4.22.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8926/425/CodeChickenCore-1.4.22.jar",
+      "sha1": "f4b6d5e12fdd25552e3d79b86c44f4ccccab235b",
+      "fileSize": 453567
+    }
+  },
+  "dependents": [
+    "iNPc3Onu"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

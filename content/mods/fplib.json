@@ -1,0 +1,35 @@
+{
+  "name": "FalsePatternLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eGLBEILf",
+      "slug": "fplib",
+      "versionId": "DfcXtSn9",
+      "versionNumber": "1.12.2",
+      "filename": "falsepatternlib-mc1.7.10-1.12.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eGLBEILf/versions/DfcXtSn9/falsepatternlib-mc1.7.10-1.12.2.jar",
+      "sha1": "9ec3ae13ef669b55173739eb49178050356cfbc7",
+      "sha512": "7a1ac49e64c5de60ae98c2c6ef2232254af234930b91b7d6389c471f09ab313819391ca2aada3cdd622acf32bb17643322c3a0086024c260e86c2369da722086",
+      "fileSize": 994672
+    },
+    "curseforge": {
+      "id": "665627",
+      "slug": "fplib",
+      "versionId": "8169770",
+      "versionNumber": "1.12.2",
+      "filename": "falsepatternlib-mc1.7.10-1.12.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8169/770/falsepatternlib-mc1.7.10-1.12.2.jar",
+      "sha1": "9ec3ae13ef669b55173739eb49178050356cfbc7",
+      "fileSize": 994672
+    }
+  },
+  "dependents": [
+    "qGHY4QGo"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

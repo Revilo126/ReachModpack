@@ -1,0 +1,35 @@
+{
+  "name": "ChunkAPI",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "y0vBUOla",
+      "slug": "chunkapi",
+      "versionId": "Rgquiehg",
+      "versionNumber": "0.8.4",
+      "filename": "chunkapi-mc1.7.10-0.8.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/y0vBUOla/versions/Rgquiehg/chunkapi-mc1.7.10-0.8.4.jar",
+      "sha1": "e3d1b972388cbda06280357caace4a87a08802dd",
+      "sha512": "daafb9c2dfd841e1971b95a6a31296ec971fdb815da4115041b4ea6497ae5fd332d2404980a0a00e3d1683ab781fd78645d2dd64a22357aa622a52ede3b5b8ce",
+      "fileSize": 473162
+    },
+    "curseforge": {
+      "id": "844484",
+      "slug": "chunkapi",
+      "versionId": "8609071",
+      "versionNumber": "0.8.4",
+      "filename": "chunkapi-mc1.7.10-0.8.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8609/71/chunkapi-mc1.7.10-0.8.4.jar",
+      "sha1": "e3d1b972388cbda06280357caace4a87a08802dd",
+      "fileSize": 473162
+    }
+  },
+  "dependents": [
+    "qGHY4QGo"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

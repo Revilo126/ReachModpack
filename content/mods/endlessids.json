@@ -1,0 +1,33 @@
+{
+  "name": "EndlessIDs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qGHY4QGo",
+      "slug": "endlessids",
+      "versionId": "U7efAnFt",
+      "versionNumber": "1.7.4",
+      "filename": "endlessids-mc1.7.10-1.7.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qGHY4QGo/versions/U7efAnFt/endlessids-mc1.7.10-1.7.4.jar",
+      "sha1": "6a0ec763e3f49f46f407d040ec364c4bed5c928b",
+      "sha512": "7a3c8461e0902e9e6cc76a3dadb80fa9c07c440729018b7953b9ff2e0641049c5964542a914da6ca5b80627a0bceeccbad45a321bf67ad568f68dfaed1c782fd",
+      "fileSize": 358400
+    },
+    "curseforge": {
+      "id": "665730",
+      "slug": "endlessids",
+      "versionId": "8169819",
+      "versionNumber": "1.7.4",
+      "filename": "endlessids-mc1.7.10-1.7.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8169/819/endlessids-mc1.7.10-1.7.4.jar",
+      "sha1": "6a0ec763e3f49f46f407d040ec364c4bed5c928b",
+      "fileSize": 358400
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

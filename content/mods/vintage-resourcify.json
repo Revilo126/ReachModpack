@@ -1,0 +1,27 @@
+{
+  "name": "Vintage Resourcify",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LiB1HUQN",
+      "slug": "vintage-resourcify",
+      "versionId": "iPXCk93L",
+      "versionNumber": "1.0.5",
+      "filename": "vintage-resourcify-1.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LiB1HUQN/versions/iPXCk93L/vintage-resourcify-1.0.5.jar",
+      "sha1": "b2ce206eae0f0ac53f45a3f7cc4cbab09c988ec6",
+      "sha512": "cfe5eb4c500ab0060920d40951ef85a5a9784fb93507329c2bf85231131d9e210bdfa101cef229231f8413aec661496360c4cd52c63b89a35de640be4cd147fe",
+      "fileSize": 1345884
+    },
+    "curseforge": {
+      "id": "1549825",
+      "slug": "vintage-resourcify"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

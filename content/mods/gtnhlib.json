@@ -1,0 +1,36 @@
+{
+  "name": "GTNH Lib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vTvnv7qp",
+      "slug": "gtnhlib",
+      "versionId": "SKm08f5m",
+      "versionNumber": "0.11.52",
+      "filename": "gtnhlib-0.11.52.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vTvnv7qp/versions/SKm08f5m/gtnhlib-0.11.52.jar",
+      "sha1": "3ed7c81534e83b66d3e5e4ad3f845faa26897c07",
+      "sha512": "4c3098153624cd92f0ee1fb9c927e088a804b4d95aa4028518bc23282df2ca9c03c8dc4b08b3c3f2e911ee375fd22a9dfb2be47b0099ac6e47bbbda42d3e63a3",
+      "fileSize": 1430488
+    },
+    "curseforge": {
+      "id": "688894",
+      "slug": "gtnhlib",
+      "versionId": "8996192",
+      "versionNumber": "gtnhlib-0.11.52.jar",
+      "filename": "gtnhlib-0.11.52.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8996/192/gtnhlib-0.11.52.jar",
+      "sha1": "3ed7c81534e83b66d3e5e4ad3f845faa26897c07",
+      "fileSize": 1430488
+    }
+  },
+  "dependents": [
+    "6QQe8Ldy",
+    "XN5jnYB4"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

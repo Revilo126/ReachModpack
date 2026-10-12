@@ -1,0 +1,18 @@
+{
+  "name": "backhand-1.8.16",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "url",
+  "sources": {
+    "url": {
+      "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.16/backhand-1.8.16.jar",
+      "slug": "",
+      "filename": "backhand-1.8.16.jar",
+      "downloadUrl": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.16/backhand-1.8.16.jar"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

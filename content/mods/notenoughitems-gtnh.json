@@ -1,0 +1,33 @@
+{
+  "name": "NotEnoughItems Unofficial 1.7.10",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iNPc3Onu",
+      "slug": "notenoughitems-unofficial",
+      "versionId": "yWIt3MDw",
+      "versionNumber": "2.8.159-GTNH",
+      "filename": "NotEnoughItems-2.8.159-GTNH.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iNPc3Onu/versions/yWIt3MDw/NotEnoughItems-2.8.159-GTNH.jar",
+      "sha1": "c03ef528353d66578f6d59fb55a3576af470cca9",
+      "sha512": "1272c81844aa3586123e141bbf8eec62ccddf6109b1ba2ef65ba16f09799d670ec7c35698b81f8b0b04d08f1b91c0715323f4f10466e4af52bccde3ec3fb116d",
+      "fileSize": 1772030
+    },
+    "curseforge": {
+      "id": "358228",
+      "slug": "notenoughitems-gtnh",
+      "versionId": "9124197",
+      "versionNumber": "NotEnoughItems-2.8.159-GTNH.jar",
+      "filename": "NotEnoughItems-2.8.159-GTNH.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9124/197/NotEnoughItems-2.8.159-GTNH.jar",
+      "sha1": "c03ef528353d66578f6d59fb55a3576af470cca9",
+      "fileSize": 1772030
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

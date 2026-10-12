@@ -1,0 +1,18 @@
+{
+  "name": "BetterQuesting-3.8.90-GTNH",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "url",
+  "sources": {
+    "url": {
+      "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.90-GTNH/BetterQuesting-3.8.90-GTNH.jar",
+      "slug": "",
+      "filename": "BetterQuesting-3.8.90-GTNH.jar",
+      "downloadUrl": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.90-GTNH/BetterQuesting-3.8.90-GTNH.jar"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
