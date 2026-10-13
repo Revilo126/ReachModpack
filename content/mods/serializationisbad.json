@@ -15,6 +15,16 @@
       "sha1": "da05f7344986d425c858decb36cf776b3fe53dad",
       "sha512": "40391775653921f408b04c8dc08f033d03af612bb397e85e2731717c70a92ec339c53add179fc6487dbfe1db33120ef56870c96740d7c8861461012dd058895d",
       "fileSize": 511085
+    },
+    "curseforge": {
+      "id": "896591",
+      "slug": "serializationisbad",
+      "versionId": "5187152",
+      "versionNumber": "Version 1.5.2 - Hotfix for older Java versions",
+      "filename": "serializationisbad-1.5.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5187/152/serializationisbad-1.5.2.jar",
+      "sha1": "da05f7344986d425c858decb36cf776b3fe53dad",
+      "fileSize": 511085
     }
   },
   "dependents": [],

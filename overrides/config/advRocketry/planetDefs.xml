@@ -1,0 +1,7 @@
+<galaxy>
+  <star name="Ater" temp="200" x="0" y="0" numPlanets="0" numGasGiants="0" blackHole="false">
+    <star name="Clara" temp="100" separation="14.0" />
+    <planet name="Alterra">
+    </planet>
+  </star>
+</galaxy>

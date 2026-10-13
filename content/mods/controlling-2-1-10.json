@@ -1,0 +1,18 @@
+{
+  "name": "controlling-2.1.10",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "url",
+  "sources": {
+    "url": {
+      "url": "https://github.com/GTNewHorizons/Controlling/releases/download/2.1.10/controlling-2.1.10.jar",
+      "slug": "",
+      "filename": "controlling-2.1.10.jar",
+      "downloadUrl": "https://github.com/GTNewHorizons/Controlling/releases/download/2.1.10/controlling-2.1.10.jar"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

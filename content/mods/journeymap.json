@@ -15,6 +15,16 @@
       "sha1": "aa05ce2c4793c99df74f6f4c50e851216070a2d6",
       "sha512": "2a48b835ae330f7bae5a8db050aa6588522c531b4a2afab112bdf20d78bdceb63117e57763a2000fc8e684ec6aa5a5ee5df8149d25b2bdbda4dcaa3cd06fcb78",
       "fileSize": 5598394
+    },
+    "curseforge": {
+      "id": "32274",
+      "slug": "journeymap",
+      "versionId": "9049794",
+      "versionNumber": "journeymap-1.7.10-6.0.8+forge",
+      "filename": "journeymap-forge-1.7.10-6.0.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9049/794/journeymap-forge-1.7.10-6.0.8.jar",
+      "sha1": "aa05ce2c4793c99df74f6f4c50e851216070a2d6",
+      "fileSize": 5598394
     }
   },
   "dependents": [],

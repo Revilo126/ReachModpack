@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "XN5jnYB4",
       "slug": "angelica",
-      "versionId": "TfUbK8YD",
-      "versionNumber": "2.2.31",
-      "filename": "angelica-2.2.31.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/XN5jnYB4/versions/TfUbK8YD/angelica-2.2.31.jar",
-      "sha1": "966c0ffc99317779a983e60a8c319de967038853",
-      "sha512": "0a5d8210ef8aa1b257c860834f6075cc2659399183fad8b679102f3175cf25c230039fae9d1974c5a978283d87f57ff160583949877314f6218d6e2a86b99d22",
-      "fileSize": 12074431
+      "versionId": "qBZy2Vcn",
+      "versionNumber": "2.2.32",
+      "filename": "angelica-2.2.32.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XN5jnYB4/versions/qBZy2Vcn/angelica-2.2.32.jar",
+      "sha1": "4106bdbcab9b2762f2208a2e80cc57703584bda8",
+      "sha512": "43e9fd55af0692ae9b23b813e21d515d4403f9d85910897f421979bee88be68037563c3b3e028cdc0a77525d54fa88605e65b49eedb6034963065a1c1cb029df",
+      "fileSize": 12077201
     },
     "curseforge": {
       "id": "988067",
       "slug": "angelica",
-      "versionId": "9124497",
-      "versionNumber": "angelica-2.2.31.jar",
-      "filename": "angelica-2.2.31.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9124/497/angelica-2.2.31.jar",
-      "sha1": "966c0ffc99317779a983e60a8c319de967038853",
-      "fileSize": 12074431
+      "versionId": "9153903",
+      "versionNumber": "angelica-2.2.32.jar",
+      "filename": "angelica-2.2.32.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9153/903/angelica-2.2.32.jar",
+      "sha1": "4106bdbcab9b2762f2208a2e80cc57703584bda8",
+      "fileSize": 12077201
     }
   },
   "dependents": [],

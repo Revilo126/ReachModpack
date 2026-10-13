@@ -1,0 +1,23 @@
+{
+  "name": "Cinematic Respawn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CFJWaa89",
+      "slug": "cinematic-respawn",
+      "versionId": "ZdiuDB8i",
+      "versionNumber": "1.7.10-forge-1.4.0",
+      "filename": "cinematic_respawn-1.7.10-forge-1.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CFJWaa89/versions/ZdiuDB8i/cinematic_respawn-1.7.10-forge-1.4.0.jar",
+      "sha1": "1172f3808fb01978104ad00aa99348e977769ffb",
+      "sha512": "b3bcd045edf3f0bb571ad4e99422addb7906cdde765fd9fefeed3a07a95109798ecfd4cd2a63d919868d90c8cf7d90e711b1e3b65b31ef69198af01a11c138d3",
+      "fileSize": 26435
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

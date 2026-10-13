@@ -1,0 +1,22 @@
+{
+  "name": "Advanced Rocketry",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "236542",
+      "slug": "advanced-rocketry",
+      "versionId": "2422417",
+      "versionNumber": "AdvancedRocketry-1.7.10-1.0.19b.jar",
+      "filename": "AdvancedRocketry-1.7.10-1.0.19b.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/2422/417/AdvancedRocketry-1.7.10-1.0.19b.jar",
+      "sha1": "83331762ea42aa1e16cdc948d6fc74aeed69aae9",
+      "fileSize": 9609994
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

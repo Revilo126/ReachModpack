@@ -1,0 +1,24 @@
+{
+  "name": "LibVulpes",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "236541",
+      "slug": "libvulpes",
+      "versionId": "2812784",
+      "versionNumber": "LibVulpes 1.7.10-0.2.8-37-UNSTABLE build -37 for 1.7.10",
+      "filename": "LibVulpes-1.7.10-0.2.8-37-universal.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/2812/784/LibVulpes-1.7.10-0.2.8-37-universal.jar",
+      "sha1": "096ae9fd15612d589cdf2aff45fd45740dfd6eb9",
+      "fileSize": 385062
+    }
+  },
+  "dependents": [
+    "236542"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

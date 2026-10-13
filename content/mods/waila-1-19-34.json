@@ -1,0 +1,18 @@
+{
+  "name": "Waila-1.19.34",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "url",
+  "sources": {
+    "url": {
+      "url": "https://github.com/GTNewHorizons/waila/releases/download/1.19.34/Waila-1.19.34.jar",
+      "slug": "",
+      "filename": "Waila-1.19.34.jar",
+      "downloadUrl": "https://github.com/GTNewHorizons/waila/releases/download/1.19.34/Waila-1.19.34.jar"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

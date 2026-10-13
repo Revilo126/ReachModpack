@@ -1,0 +1,22 @@
+{
+  "name": "Custom Loading Screen",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "229302",
+      "slug": "better-loading-screen",
+      "versionId": "2414751",
+      "versionNumber": "[1.7.10]BetterLoadingScreen-1.3.10.jar",
+      "filename": "BetterLoadingScreen-1.3.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/2414/751/BetterLoadingScreen-1.3.10.jar",
+      "sha1": "c9d673415deca85afb42e7e698d932691f27d8a8",
+      "fileSize": 84054
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

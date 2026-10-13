@@ -1,0 +1,23 @@
+{
+  "name": "AppleCore Unofficial 1.7.10",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "c3I7Akgu",
+      "slug": "applecore-unofficial",
+      "versionId": "7GWPm7Cy",
+      "versionNumber": "3.3.13",
+      "filename": "AppleCore-3.3.13.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/c3I7Akgu/versions/7GWPm7Cy/AppleCore-3.3.13.jar",
+      "sha1": "29d0c494b4034ab8210a03fc2e7a52dfb9f6efc9",
+      "sha512": "a35d49bdc615746e3b76669b6cab1b0c00dfc66f6437695e1b00a061477aab51ed63f8e830d23b92e817408a2e41cc4882f903cec83b00e3b7479463fa9ed12c",
+      "fileSize": 100721
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

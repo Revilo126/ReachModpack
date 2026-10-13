@@ -1,8 +1,16 @@
 {
   "files": [
     {
+      "path": "content/mods/advanced-rocketry.json",
+      "sha1": "e3e3c1a8def2e761475c5d2f82329d9b3da6ef3d"
+    },
+    {
       "path": "content/mods/angelica.json",
-      "sha1": "95ea208fcf259b1efdccec379f0eac389591adb9"
+      "sha1": "98d81360500d1c788219dcf4d9f753bea8d65959"
+    },
+    {
+      "path": "content/mods/applecore-unofficial.json",
+      "sha1": "f2e5e6af67acdae0e779e2043cf3d7c7728577cf"
     },
     {
       "path": "content/mods/avaritia.json",
@@ -11,6 +19,10 @@
     {
       "path": "content/mods/backhand-1-8-16.json",
       "sha1": "9baa6745fc02b06bda29888168532cde422a7355"
+    },
+    {
+      "path": "content/mods/better-loading-screen.json",
+      "sha1": "d972ca613324183799517708ef55e10af1f8497e"
     },
     {
       "path": "content/mods/betterquesting-3-8-90-gtnh.json",
@@ -25,8 +37,20 @@
       "sha1": "f714ac400f4e8f23213882e1529112ac0d8e2a52"
     },
     {
+      "path": "content/mods/cinematic-respawn.json",
+      "sha1": "dba1fca0b941cc3ed9e76e0bf416612f905c5e91"
+    },
+    {
       "path": "content/mods/codechickencore-unofficial.json",
       "sha1": "bd2c399a9210b7bd09c94fdd164a91bf8f563344"
+    },
+    {
+      "path": "content/mods/controlling-2-1-10.json",
+      "sha1": "de636d05229af24ae69b3f8283142f8b1f975862"
+    },
+    {
+      "path": "content/mods/custom-main-menu.json",
+      "sha1": "ae5f9acbac0c54b6d46914c51c4bd9bfe44a9622"
     },
     {
       "path": "content/mods/endlessids.json",
@@ -54,15 +78,19 @@
     },
     {
       "path": "content/mods/hodgepodge.json",
-      "sha1": "81fdfaeee1f27f1f596acc8fc9f314ef675c7dfc"
+      "sha1": "42d04cd1673ed7f7df04d372ce2450c2683d6acf"
     },
     {
       "path": "content/mods/journeymap.json",
-      "sha1": "23bc2dae2a11731f3b86948d0a84336ccc7399fd"
+      "sha1": "d42ddbd3acb8afd05ac3b631584b53c7ceecacc5"
+    },
+    {
+      "path": "content/mods/libvulpes.json",
+      "sha1": "8e98c42faae9f8a18ca5a18b3323a141525aa234"
     },
     {
       "path": "content/mods/modularui.json",
-      "sha1": "829adb5c5dcbb8de69322f66affd15360c8f189c"
+      "sha1": "9a415bd9bf4d04e432a2df05ba08ca214effce73"
     },
     {
       "path": "content/mods/mousetweaks-2-5-4-gtnh.json",
@@ -70,23 +98,63 @@
     },
     {
       "path": "content/mods/notenoughitems-gtnh.json",
-      "sha1": "8dcf1ee0b26e5f27bb5ee911f2eb6eda225e421c"
+      "sha1": "a2542362660574ea1e25cf23250903b553f34a97"
     },
     {
       "path": "content/mods/serializationisbad.json",
-      "sha1": "19ded0832ab45002b611694aa013c87cad296226"
+      "sha1": "995c1e64daed9b64305751146e5b13f604456fd9"
+    },
+    {
+      "path": "content/mods/tx-loader.json",
+      "sha1": "5e0f3446466a75104e1f4da3a2282dd9c7ef75f7"
     },
     {
       "path": "content/mods/unimixins.json",
-      "sha1": "8b95970c4fb69592dea26b27df6166170276147d"
+      "sha1": "60e39e84c7b76bf2b4d6ab582990d4039f4b5b0e"
+    },
+    {
+      "path": "content/mods/village-names.json",
+      "sha1": "ec6a11df3d377199a06f7d2c36ac3c9a76dc6091"
     },
     {
       "path": "content/mods/vintage-resourcify.json",
       "sha1": "4aed1d49b5e14db08be370c7b4871f4536f1d218"
     },
     {
+      "path": "content/mods/waila-1-19-34.json",
+      "sha1": "d9ae0b63ad46de07f4ce1710b26c904c2da6d832"
+    },
+    {
+      "path": "overrides/config/AppleCore.cfg",
+      "sha1": "ffe012726a00a31120cae0d98e316a6d8119ee23"
+    },
+    {
+      "path": "overrides/config/Avaritia.cfg",
+      "sha1": "56a03c132e210ede10752951384774583c33929b"
+    },
+    {
+      "path": "overrides/config/BetterLoadingScreen/config.cfg",
+      "sha1": "6539a681ea1b2ff7849d2aa8f3a0f9a1e56de635"
+    },
+    {
+      "path": "overrides/config/BetterLoadingScreen/images.json",
+      "sha1": "d39caa53c373fa4d19efdad59ab7c55c1ae1980a"
+    },
+    {
+      "path": "overrides/config/BetterLoadingScreen/preset one.json",
+      "sha1": "d39caa53c373fa4d19efdad59ab7c55c1ae1980a"
+    },
+    {
+      "path": "overrides/config/BetterLoadingScreen/preset two.json",
+      "sha1": "b264ab2203ccc33e686e387c9dc02f1fc277455d"
+    },
+    {
       "path": "overrides/config/CodeChickenCore.cfg",
       "sha1": "b373daf91bcdd2a62fc76afa4fbbcb0257f0aa82"
+    },
+    {
+      "path": "overrides/config/CustomMainMenu/mainmenu.json",
+      "sha1": "6e0208056b785498e19da69a47c8dcc846a1d700"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -94,7 +162,7 @@
     },
     {
       "path": "overrides/config/NEI/client.cfg",
-      "sha1": "b601a217352750c7139642f52009f4979913ba5a"
+      "sha1": "97b7ccde1dd8caa73e06c377b3b4479fd7a6d6fd"
     },
     {
       "path": "overrides/config/NEI/collapsibleitems.cfg",
@@ -145,6 +213,138 @@
       "sha1": "994eb969a67b6f7b6a48d6f7f69b9355ac4ca86d"
     },
     {
+      "path": "overrides/config/VillageNames4/general.cfg",
+      "sha1": "9f7ec10d05e2c1d7f2f0ae84916e572e88dbd7ed"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/alien.cfg",
+      "sha1": "46a5506f783248d3453d2dad30b86c52478f1c80"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/alienvillage.cfg",
+      "sha1": "4817536f462057d05e0cdca825629a52fcde0fbe"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/angel.cfg",
+      "sha1": "202f0c727d966c0aa49c0c775d284415d0f97bab"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/custom.cfg",
+      "sha1": "71156db5949b7790087b62f5a4965f1509ecadc5"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/demon.cfg",
+      "sha1": "5ec77bb54e1017f80b6a20dbc869ebccef378c9f"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/dragon.cfg",
+      "sha1": "2afc054d37a803accdd2c8c6ca54816120c1b752"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/endcity.cfg",
+      "sha1": "a931b9886d54a1baf5b608f70672609c27530bc0"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/fortress.cfg",
+      "sha1": "8f514b7e6a5e8516efbf6b5fa580a85ee8ef74ac"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/goblin.cfg",
+      "sha1": "ad7e593f744d7256417d717b2d626fcec0284706"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/golem.cfg",
+      "sha1": "c81246fe0529980670ce7beee2f8c360ea268840"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/mansion.cfg",
+      "sha1": "8936682331b90b685b824cc4797ccaa386655ddd"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/mineshaft.cfg",
+      "sha1": "d87f8b03577d4c16d29da8769d849d9e2df8ddd2"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/monument.cfg",
+      "sha1": "7f6d3c05dcccf8408b40ca0cedac422d2bc168cf"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/pet.cfg",
+      "sha1": "17d75c875df98571d7b2c9177a1c33cd49824628"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/stronghold.cfg",
+      "sha1": "2c5f8255d447e98df11df808e437edff7a52f7b7"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/temple.cfg",
+      "sha1": "4067fa41aec39d7136968dd3db13a4f7b29377f0"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/village.cfg",
+      "sha1": "47d0df8cea452259f403f51c911900b521524d72"
+    },
+    {
+      "path": "overrides/config/VillageNames4/namepieces/villager.cfg",
+      "sha1": "2e464da08cfcb84bc6da8fd06e6fc0d6b456eca3"
+    },
+    {
+      "path": "overrides/config/VillageNames4/newvillages/village_gen.cfg",
+      "sha1": "6a3ba982eb73662076161b7d9c947ce0eaa28ba7"
+    },
+    {
+      "path": "overrides/config/Waila.cfg",
+      "sha1": "59a2b7bfa2430e738293a3ddfaa3aebc03826f35"
+    },
+    {
+      "path": "overrides/config/advRocketry/ChemicalReactor.xml",
+      "sha1": "694f8cf7f4bf149cccb482714a7c5af3f8b331c2"
+    },
+    {
+      "path": "overrides/config/advRocketry/Crystallizer.xml",
+      "sha1": "511a560cf87cf77dc59b83d927af2f1f8b43dd82"
+    },
+    {
+      "path": "overrides/config/advRocketry/CuttingMachine.xml",
+      "sha1": "3678ee2ff6c9f89681cb490a1c7ff7c1c53dd406"
+    },
+    {
+      "path": "overrides/config/advRocketry/ElectricArcFurnace.xml",
+      "sha1": "153c3de6041d311bcbdc33a3d4f26ea04742fd4a"
+    },
+    {
+      "path": "overrides/config/advRocketry/Electrolyser.xml",
+      "sha1": "aa132ef96d7998c8484f0b0d4e876f6cfca13fa9"
+    },
+    {
+      "path": "overrides/config/advRocketry/Lathe.xml",
+      "sha1": "d6673b1f218fe181aa9e72746e6158fe3831e276"
+    },
+    {
+      "path": "overrides/config/advRocketry/PrecisionAssembler.xml",
+      "sha1": "cd27662cbd50b359bf83eab365d5c552f597e5cb"
+    },
+    {
+      "path": "overrides/config/advRocketry/RollingMachine.xml",
+      "sha1": "954c2d67b08a6b920886e1cce0e3378942e112a4"
+    },
+    {
+      "path": "overrides/config/advRocketry/SmallPlatePress.xml",
+      "sha1": "e91977825cfc712ea282543db7bfda905ef436bc"
+    },
+    {
+      "path": "overrides/config/advRocketry/advancedRocketry.cfg",
+      "sha1": "3fe8ecfffede4e778c3095137ffc053225ec6584"
+    },
+    {
+      "path": "overrides/config/advRocketry/oreConfig.xml",
+      "sha1": "e5f576dac48a3a0889dd532458b1d5793d953eeb"
+    },
+    {
+      "path": "overrides/config/advRocketry/planetDefs.xml",
+      "sha1": "2f79fe3fbf6f4b0826162007cd599b16671f0076"
+    },
+    {
       "path": "overrides/config/angelica-compat.cfg",
       "sha1": "55d1523a1f36be42949a32b42dc219a0b81dd389"
     },
@@ -161,8 +361,12 @@
       "sha1": "f80f689b60a83fa5d8e1a1a11dbb57b05fcea7c4"
     },
     {
+      "path": "overrides/config/backhand.cfg",
+      "sha1": "823017d82749b06dcad0b18b0b95bbb2f6ec20ee"
+    },
+    {
       "path": "overrides/config/betterquesting.cfg",
-      "sha1": "27cdb5f5a97bdf49c929d728fdf26cb8c5e2a04c"
+      "sha1": "adb3e834c494b15ef70da92bd203d6cb735a845e"
     },
     {
       "path": "overrides/config/betterquesting/DefaultQuests/QuestLines/Exordium-bXd076evQ825jk2a1l5gNg==/QuestLine.json",
@@ -199,6 +403,10 @@
     {
       "path": "overrides/config/bq_standard.cfg",
       "sha1": "6e254dad001ce6518f5c3882946546219784443d"
+    },
+    {
+      "path": "overrides/config/cinematic_respawn.properties",
+      "sha1": "2f810950a5adc3c37324cabe09ac59c7c8764ff6"
     },
     {
       "path": "overrides/config/endlessids.cfg",
@@ -250,7 +458,7 @@
     },
     {
       "path": "overrides/config/gregtech/old_barely_used_gt5_style_garbage_worldgen.cfg",
-      "sha1": "8c4bfc6b7204008a138be02182ff3d16cd5c2be3"
+      "sha1": "fad8c1cecb34967fc3a0de95b23911c51bd00850"
     },
     {
       "path": "overrides/config/gregtech/oreprocessing.cfg",
@@ -258,7 +466,7 @@
     },
     {
       "path": "overrides/config/gregtech/recipes.cfg",
-      "sha1": "bc8601688af78d9196e2c45c90893259ba16e893"
+      "sha1": "9e936872ec0ced6a1cef53c8e99b185af210c8f4"
     },
     {
       "path": "overrides/config/gregtech/stacksizes.cfg",
@@ -266,11 +474,11 @@
     },
     {
       "path": "overrides/config/gregtech/unification.cfg",
-      "sha1": "9802a28dd37dcb01b051d73a022a5eecb3e49610"
+      "sha1": "c96769eb476adb048ca5c557da3c1b96269120c7"
     },
     {
       "path": "overrides/config/gregtech/worldgenerationnew.cfg",
-      "sha1": "f90c4fe322c0d29b936df627ee15709e34574dbd"
+      "sha1": "1901bc042c5aeafc283f6142048de00e42340fe9"
     },
     {
       "path": "overrides/config/gtnhlib-number-formatting.cfg",
@@ -286,11 +494,15 @@
     },
     {
       "path": "overrides/config/hodgepodgeEarly.properties",
-      "sha1": "eda6425b3590c45d8016d7d463fb37cf913cec7e"
+      "sha1": "ec40bc236252de32ae78c27adaefa8724802362b"
     },
     {
       "path": "overrides/config/journeymap_server.cfg",
       "sha1": "4f1870e13dc6848a24474d01666227e1a8d34791"
+    },
+    {
+      "path": "overrides/config/libVulpes.cfg",
+      "sha1": "541dba0a36939b539f475b78d572f7a423ac8288"
     },
     {
       "path": "overrides/config/mcpatcherforge.cfg",
@@ -338,7 +550,7 @@
     },
     {
       "path": "overrides/config/recipes/boxinator.cfg",
-      "sha1": "99c063ec1578b393fe7898b57df0a76c919b73be"
+      "sha1": "be02e7f1fa96fdd6be1aa9b2a31f5815a9ee97d3"
     },
     {
       "path": "overrides/config/recipes/bumblelyzer.cfg",
@@ -358,7 +570,7 @@
     },
     {
       "path": "overrides/config/recipes/canning_machine.cfg",
-      "sha1": "2430909ac9d141fe69c931b0f363a9c4f84849b7"
+      "sha1": "6c521fa0591c98b2693368e6ede03bfdd8e1c78f"
     },
     {
       "path": "overrides/config/recipes/catalytic_cracking.cfg",
@@ -410,7 +622,7 @@
     },
     {
       "path": "overrides/config/recipes/cutter.cfg",
-      "sha1": "745515258101974b2e8fdaa14520823c908e657a"
+      "sha1": "caf6b41d556fefd1ab0fdec44f6c763bff191f3e"
     },
     {
       "path": "overrides/config/recipes/distillation_tower.cfg",
@@ -434,7 +646,7 @@
     },
     {
       "path": "overrides/config/recipes/extruder.cfg",
-      "sha1": "9108aba4b834f6156b88925c3a3d63b19d16d379"
+      "sha1": "95e7f6c156569ff9bfd7ee2fb378cc66314756ce"
     },
     {
       "path": "overrides/config/recipes/fermenter.cfg",
@@ -506,7 +718,7 @@
     },
     {
       "path": "overrides/config/recipes/matter_fabricator.cfg",
-      "sha1": "d2ce6fee2d31ac21a538c259b87ec2a1d8ce73a1"
+      "sha1": "1881bc2f81232d624eb9267b93b7672c493c71b6"
     },
     {
       "path": "overrides/config/recipes/matter_replicator.cfg",
@@ -514,7 +726,7 @@
     },
     {
       "path": "overrides/config/recipes/melter.cfg",
-      "sha1": "265802ad0573d2c8b4d8d84d89747dba883ba488"
+      "sha1": "53a0af1928c8c6ac4dad9558dceb477dd6f5feb0"
     },
     {
       "path": "overrides/config/recipes/mixer.cfg",
@@ -526,7 +738,7 @@
     },
     {
       "path": "overrides/config/recipes/mortar.cfg",
-      "sha1": "798a8bbb7f0fbea7de8afc38e4814161791c2add"
+      "sha1": "89f0a1af37c137d9f78f26817d57a9a2f313a53c"
     },
     {
       "path": "overrides/config/recipes/nanoscale_fabricator.cfg",
@@ -582,11 +794,11 @@
     },
     {
       "path": "overrides/config/recipes/sharpener.cfg",
-      "sha1": "ca2fb2c5edb2e40dc7196119ea67097da7f0d9e9"
+      "sha1": "a561de35efb28bd6aacb2b49bd9f18fe2dc0c956"
     },
     {
       "path": "overrides/config/recipes/shredder.cfg",
-      "sha1": "dfa4aa51c8c115970f5034194c088a6d3e413934"
+      "sha1": "715a8f8422e8ee3d5adc97e578fbb8699c908425"
     },
     {
       "path": "overrides/config/recipes/sifter.cfg",
@@ -602,7 +814,7 @@
     },
     {
       "path": "overrides/config/recipes/smelter.cfg",
-      "sha1": "b65abd8236340d4ab5ad1623eef62c956a8acb90"
+      "sha1": "5fc675919e74449416e47e6be0fa2c0accf1d966"
     },
     {
       "path": "overrides/config/recipes/squeezer.cfg",
@@ -618,7 +830,7 @@
     },
     {
       "path": "overrides/config/recipes/unboxinator.cfg",
-      "sha1": "272972225762c055efd1c9265a01b98083a6f94b"
+      "sha1": "0724a2ea3ff878805d34faea1b63b22134c784b3"
     },
     {
       "path": "overrides/config/recipes/welding_machine.cfg",
@@ -638,11 +850,15 @@
     },
     {
       "path": "overrides/config/shaders.properties",
-      "sha1": "241ba68d89c7163daae7866a1c7c290e47b9018b"
+      "sha1": "6d52ad77cfd5948a59a3da6538ef0025b288bf21"
     },
     {
       "path": "overrides/config/splash.properties",
-      "sha1": "f6d95f6502be29969163b30e51e85050a1176b59"
+      "sha1": "b46df3a886365041920a0bfec69399ac35eca680"
+    },
+    {
+      "path": "overrides/config/txloader/config.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
     },
     {
       "path": "overrides/config/unimixins.properties",
@@ -667,10 +883,6 @@
     {
       "path": "overrides/gregtech.lang",
       "sha1": "811c5c52712c27dc9d7ffabc38b5a475d767d07d"
-    },
-    {
-      "path": "overrides/icon.png",
-      "sha1": "edccfc7309e73e20ef102d4b9fc2c60370c42ffc"
     }
   ]
 }

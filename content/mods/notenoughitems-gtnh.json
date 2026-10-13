@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "iNPc3Onu",
       "slug": "notenoughitems-unofficial",
-      "versionId": "yWIt3MDw",
-      "versionNumber": "2.8.159-GTNH",
-      "filename": "NotEnoughItems-2.8.159-GTNH.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/iNPc3Onu/versions/yWIt3MDw/NotEnoughItems-2.8.159-GTNH.jar",
-      "sha1": "c03ef528353d66578f6d59fb55a3576af470cca9",
-      "sha512": "1272c81844aa3586123e141bbf8eec62ccddf6109b1ba2ef65ba16f09799d670ec7c35698b81f8b0b04d08f1b91c0715323f4f10466e4af52bccde3ec3fb116d",
-      "fileSize": 1772030
+      "versionId": "6nrcnajR",
+      "versionNumber": "2.8.160-GTNH",
+      "filename": "NotEnoughItems-2.8.160-GTNH.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iNPc3Onu/versions/6nrcnajR/NotEnoughItems-2.8.160-GTNH.jar",
+      "sha1": "f8f53b47bdca8bd8f6ce19128d1bdb0fe6217df9",
+      "sha512": "259cc7a0874f0f58de3ae0f46f79b2ce52f30c17e77e23c7f82204226f179064af6c4d1be615490b05b43d21114537791a4f4a3391da37fe6a77be8bf7a2a1ca",
+      "fileSize": 1785497
     },
     "curseforge": {
       "id": "358228",
       "slug": "notenoughitems-gtnh",
-      "versionId": "9124197",
-      "versionNumber": "NotEnoughItems-2.8.159-GTNH.jar",
-      "filename": "NotEnoughItems-2.8.159-GTNH.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9124/197/NotEnoughItems-2.8.159-GTNH.jar",
-      "sha1": "c03ef528353d66578f6d59fb55a3576af470cca9",
-      "fileSize": 1772030
+      "versionId": "9149800",
+      "versionNumber": "NotEnoughItems-2.8.160-GTNH.jar",
+      "filename": "NotEnoughItems-2.8.160-GTNH.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9149/800/NotEnoughItems-2.8.160-GTNH.jar",
+      "sha1": "f8f53b47bdca8bd8f6ce19128d1bdb0fe6217df9",
+      "fileSize": 1785497
     }
   },
   "dependents": [],

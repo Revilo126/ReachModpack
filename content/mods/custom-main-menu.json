@@ -1,0 +1,22 @@
+{
+  "name": "Custom Main Menu",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "226406",
+      "slug": "custom-main-menu",
+      "versionId": "2264779",
+      "versionNumber": "CustomMainMenu-MC1.7.10-1.9.2.jar",
+      "filename": "CustomMainMenu-MC1.7.10-1.9.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/2264/779/CustomMainMenu-MC1.7.10-1.9.2.jar",
+      "sha1": "f78f51612da8f3738ef8f08b00b1528f9dda2540",
+      "fileSize": 115292
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

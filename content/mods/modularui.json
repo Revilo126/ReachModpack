@@ -1,7 +1,7 @@
 {
   "name": "ModularUI",
   "side": "auto",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -14,16 +14,6 @@
       "downloadUrl": "https://cdn.modrinth.com/data/Ecvd12QC/versions/ezyBrMTL/modularui2-2.3.92-1.7.10.jar",
       "sha1": "b5a7b87bca062f7426062f1210ea1409608e9c4d",
       "sha512": "194fda9fbee29f1a548883b20105ca9db095319f65dad548cb332f0f5f014212e2f57fc6a275fd0ac0b89c534a95deaefd0a9df1ae97f37d753013a33213b245",
-      "fileSize": 1629333
-    },
-    "curseforge": {
-      "id": "624243",
-      "slug": "modularui",
-      "versionId": "9023702",
-      "versionNumber": "modularui2-2.3.92-1.7.10.jar",
-      "filename": "modularui2-2.3.92-1.7.10.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9023/702/modularui2-2.3.92-1.7.10.jar",
-      "sha1": "b5a7b87bca062f7426062f1210ea1409608e9c4d",
       "fileSize": 1629333
     }
   },

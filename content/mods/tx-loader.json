@@ -1,0 +1,33 @@
+{
+  "name": "TX Loader",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eh8us8FY",
+      "slug": "tx-loader",
+      "versionId": "CSpGmUC9",
+      "versionNumber": "1.9.1",
+      "filename": "txloader-1.9.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eh8us8FY/versions/CSpGmUC9/txloader-1.9.1.jar",
+      "sha1": "038116aa27f9cf12c0c87d6b87559310992a5993",
+      "sha512": "018a8f82d450b0be3d9ba513929fd18f07270d588f9d01d2467f6f9ed2e5a7022c4faf1f3e072e501a4c65b391b73ebf25fd51cf34f4d2c48808ed5fe5b87b0e",
+      "fileSize": 51019
+    },
+    "curseforge": {
+      "id": "706505",
+      "slug": "tx-loader",
+      "versionId": "8907486",
+      "versionNumber": "txloader-1.9.1.jar",
+      "filename": "txloader-1.9.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8907/486/txloader-1.9.1.jar",
+      "sha1": "038116aa27f9cf12c0c87d6b87559310992a5993",
+      "fileSize": 51019
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

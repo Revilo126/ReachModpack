@@ -1,0 +1,33 @@
+{
+  "name": "Village Names",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ea7aacaC",
+      "slug": "village-names",
+      "versionId": "dbqnvxNP",
+      "versionNumber": "4.4.13-1.7",
+      "filename": "VillageNames-1.7.10-4.4.13.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ea7aacaC/versions/dbqnvxNP/VillageNames-1.7.10-4.4.13.jar",
+      "sha1": "3647d628bfbba4cb37f83509b30be6c7e56b7ef8",
+      "sha512": "86ee605c30a0dc4238fe51d1ad4b94bab1b3eafaa790c68e8204ced5242c7acad63c1152024f20888d135e1b8f1af51beca4cb9d9d1b5c04515f5917cefcc0ba",
+      "fileSize": 3456929
+    },
+    "curseforge": {
+      "id": "259230",
+      "slug": "village-names",
+      "versionId": "5886875",
+      "versionNumber": "Village Names 4.4.13 for JE 1.7",
+      "filename": "VillageNames-1.7.10-4.4.13.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5886/875/VillageNames-1.7.10-4.4.13.jar",
+      "sha1": "3647d628bfbba4cb37f83509b30be6c7e56b7ef8",
+      "fileSize": 3456929
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
